@@ -21,5 +21,5 @@ main(){
 	cin>>nit;
 	obj.setNit(nit);
 	obj.mostrar();
-	
+	//este es prueba de git 
 }
